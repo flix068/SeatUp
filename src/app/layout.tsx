@@ -43,7 +43,7 @@ export default function RootLayout({
           <div className="w-16 h-1 bg-slate-700 mx-auto mb-6 rounded-full"></div>
           
           <p className="text-slate-400 text-sm">
-            ขอขอบคุณทุกท่านที่เคยเข้ามาใช้งานและให้การสนับสนุนตลอดมาครับ<br/>
+            ต้องขออภัยในความไม่สะดวกนะครับบ 🙇‍♂️🙇‍♂️<br/>
             <span className="block mt-3 font-mono text-xs text-slate-600">— ทีมพัฒนา SeatUp</span>
           </p>
         </div>
